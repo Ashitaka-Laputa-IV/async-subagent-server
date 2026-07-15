@@ -9,8 +9,7 @@
 
 ## 前置条件
 
-- `LLM_API_KEY`——必填
-- `TAVILY_API_KEY`——可选；未设置时会使用桩搜索（stub search）
+填写示例env的各大KEY
 
 ## 虚拟环境配置（Python 3.12.7）
 
